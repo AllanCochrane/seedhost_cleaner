@@ -1,0 +1,6 @@
+{
+  "name": "Media Library Janitor",
+  "description": "Orchestrates cleanup between Plex, Radarr, uTorrent, and remote SSH storage to optimize space and sync automated media workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
